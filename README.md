@@ -3,7 +3,7 @@ An unbelively basic console interpteter.
 
 Either type a command or the filepath of a script with an @ symbol preceeding.
 
-##Commands
+## Commands
 display "text"
 display const
 display "text" & const
